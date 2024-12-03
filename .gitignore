@@ -1,0 +1,16 @@
+# Logs
+logs
+*.log
+
+# Dependency directories
+node_modules/
+
+# Angular build output
+dist/
+
+# IDE configurations
+.idea/
+.vscode/
+
+# Environment files
+*.env
